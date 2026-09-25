@@ -35,6 +35,6 @@
     },
      "epel10.3": {
       "compose": "CentOS-Stream-10"
-    }    
+    }
   }
 }
